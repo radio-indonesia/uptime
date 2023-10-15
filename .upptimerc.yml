@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://cdn.discordapp.com/avatars/1090120136167538748/1d5bced34a4a9d90f7033fbc95264faa.webp
   name: +62 Radio Uptime
   theme: night
-  introTitle: "+62 Radio's status page for his websites. Powered by github actions."
+  introTitle: "+62 Radio's status page & Bot. Powered by github actions."
   introMessage: See which of my websites are up, which are down, and which are broken here!
   navbar:
     - title: Uptime
