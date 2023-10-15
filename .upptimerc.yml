@@ -12,7 +12,7 @@ status-website:
   cname: 62radio-status.is-a.fun
   # baseUrl: /uptime-monitor
   logoUrl: https://cdn.discordapp.com/avatars/1090120136167538748/1d5bced34a4a9d90f7033fbc95264faa.webp
-  name: +62 Radio Uptime
+  name: +62 Radio
   theme: night
   introTitle: "+62 Radio's Status Page & Bot"
   introMessage: a simple Discord music bot to play a radio from some Indonesian radio-station
