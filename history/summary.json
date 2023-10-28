@@ -22,18 +22,19 @@
     "url": "https://plus62radio.hop.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/plus62radio.hop.sh.ico",
     "slug": "bot",
-    "status": "up",
-    "uptime": "99.53%",
+    "status": "down",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 322,
     "timeDay": 537,
     "timeWeek": 329,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2023-10-28": 0,
       "2023-10-18": 60,
       "2023-10-15": 24
     }
