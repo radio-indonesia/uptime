@@ -4,7 +4,7 @@ sites:
   - name: Website
     url: https://62radio.is-a.fun/
   - name: Bot
-    url: https://plus62radio.hop.sh/
+    url: http://168.119.88.145:3003
 status-website:
   # Add your custom domains names, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
