@@ -4,7 +4,7 @@
     "url": "https://62radio.is-a.fun/",
     "icon": "https://icons.duckduckgo.com/ip3/62radio.is-a.fun.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 126,
     "timeMonth": 160,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "Bot",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/168.119.88.145.ico",
     "slug": "bot",
     "status": "down",
-    "uptime": "62.61%",
+    "uptime": "61.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.06%",
-    "uptimeYear": "62.61%",
+    "uptimeMonth": "34.88%",
+    "uptimeYear": "61.83%",
     "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 211,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-12-07": 53,
+      "2023-12-07": 1007,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
